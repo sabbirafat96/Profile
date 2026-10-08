@@ -2,7 +2,7 @@
 
 <img src="SABBIR.png" alt="Sabbir Senpai" width="180" style="border-radius: 50%;">
 
-# 👋 Hey, I'm Sabbir Senpai
+# Hey 🖐️, I'm Sabbir Senpai 😎
 
 ### Android Modder from Bangladesh 🇧🇩
 
