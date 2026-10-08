@@ -58,16 +58,23 @@
 
 ## 🚀 My Projects
 
-<div align="center">
+<table align="center">
+<tr>
 
+<td align="center" width="50%">
 <a href="https://github.com/sabbirafat96/iOSx69">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sabbirafat96&repo=iOSx69&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%">
+<img src="https://img.shields.io/badge/🍎_iOSx69-00BFFF?style=for-the-badge&labelColor=1a1a2e&logoColor=white">
 </a>
-<a href="https://github.com/sabbirafat96/Spoof-GT-50-Pro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sabbirafat96&repo=Spoof-GT-50-Pro&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%">
-</a>
+</td>
 
-</div>
+<td align="center" width="50%">
+<a href="https://github.com/sabbirafat96/Spoof-GT-50-Pro">
+<img src="https://img.shields.io/badge/🎮_Spoof--GT--50--Pro-FF6B9D?style=for-the-badge&labelColor=2e1a29&logoColor=white">
+</a>
+</td>
+
+</tr>
+</table>
 
 ---
 
