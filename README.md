@@ -6,7 +6,7 @@
 
 ### Android Modder from Bangladesh 🇧🇩
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Rooting+%7C+Customizing+%7C+Gaming+Tweaks;Specialized+in+Transsion+OS;XOS+%E2%80%A2+HiOS+%E2%80%A2+ItelOS;%F0%9F%87%B5%F0%9F%87%B8+Free+Palestine+%F0%9F%87%B5%F0%9F%87%B8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Rooting+%7C+Customizing+%7C+Gaming+Tweaks;Specialized+in+Transsion+OS;XOS+%E2%80%A2+HiOS+%E2%80%A2+itelOS;%F0%9F%87%B5%F0%9F%87%B8+Free+Palestine+%F0%9F%87%B5%F0%9F%87%B8" alt="Typing SVG" />
 
 </div>
 
@@ -58,23 +58,9 @@
 
 ## 🚀 My Projects
 
-<table align="center">
-<tr>
+<!-- PROJECTS_START -->
 
-<td align="center" width="50%">
-<a href="https://github.com/sabbirafat96/iOSx69">
-<img src="https://img.shields.io/badge/🍎_iOSx69-00BFFF?style=for-the-badge&labelColor=1a1a2e&logoColor=white">
-</a>
-</td>
-
-<td align="center" width="50%">
-<a href="https://github.com/sabbirafat96/Spoof-GT-50-Pro">
-<img src="https://img.shields.io/badge/🎮_Spoof--GT--50--Pro-FF6B9D?style=for-the-badge&labelColor=2e1a29&logoColor=white">
-</a>
-</td>
-
-</tr>
-</table>
+<!-- PROJECTS_END -->
 
 ---
 
