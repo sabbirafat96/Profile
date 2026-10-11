@@ -65,14 +65,14 @@
 <tr>
 
 <td align="center" width="50%">
-<a href="https://github.com/sabbirafat96/Fast-Animation-Stable-FPS-">
-<img src="https://img.shields.io/badge/🍎_Fast--Animation--Stable--FPS---00BFFF?style=for-the-badge&labelColor=1a1a2e&logoColor=white">
+<a href="https://github.com/sabbirafat96/Profile">
+<img src="https://img.shields.io/badge/🍎_Profile-00BFFF?style=for-the-badge&labelColor=1a1a2e&logoColor=white">
 </a>
 </td>
 
 <td align="center" width="50%">
-<a href="https://github.com/sabbirafat96/iOSx69">
-<img src="https://img.shields.io/badge/🎮_iOSx69-FF6B9D?style=for-the-badge&labelColor=2e1a29&logoColor=white">
+<a href="https://github.com/sabbirafat96/Fast-Animation-Stable-FPS-">
+<img src="https://img.shields.io/badge/🎮_Fast--Animation--Stable--FPS---FF6B9D?style=for-the-badge&labelColor=2e1a29&logoColor=white">
 </a>
 </td>
 
@@ -80,14 +80,14 @@
 <tr>
 
 <td align="center" width="50%">
-<a href="https://github.com/sabbirafat96/Spoof-GT-50-Pro">
-<img src="https://img.shields.io/badge/⚡_Spoof--GT--50--Pro-4CAF50?style=for-the-badge&labelColor=1a2e1a&logoColor=white">
+<a href="https://github.com/sabbirafat96/iOSx69">
+<img src="https://img.shields.io/badge/⚡_iOSx69-4CAF50?style=for-the-badge&labelColor=1a2e1a&logoColor=white">
 </a>
 </td>
 
 <td align="center" width="50%">
-<a href="https://github.com/sabbirafat96/Profile">
-<img src="https://img.shields.io/badge/🔧_Profile-9D4EDD?style=for-the-badge&labelColor=2a1a2e&logoColor=white">
+<a href="https://github.com/sabbirafat96/Spoof-GT-50-Pro">
+<img src="https://img.shields.io/badge/🔧_Spoof--GT--50--Pro-9D4EDD?style=for-the-badge&labelColor=2a1a2e&logoColor=white">
 </a>
 </td>
 
