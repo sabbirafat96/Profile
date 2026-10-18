@@ -65,14 +65,14 @@
 <tr>
 
 <td align="center" width="50%">
-<a href="https://github.com/sabbirafat96/iOSx69">
-<img src="https://img.shields.io/badge/🍎_iOSx69-00BFFF?style=for-the-badge&labelColor=1a1a2e&logoColor=white">
+<a href="https://github.com/sabbirafat96/Profile">
+<img src="https://img.shields.io/badge/🍎_Profile-00BFFF?style=for-the-badge&labelColor=1a1a2e&logoColor=white">
 </a>
 </td>
 
 <td align="center" width="50%">
-<a href="https://github.com/sabbirafat96/Profile">
-<img src="https://img.shields.io/badge/🎮_Profile-FF6B9D?style=for-the-badge&labelColor=2e1a29&logoColor=white">
+<a href="https://github.com/sabbirafat96/iOSx69">
+<img src="https://img.shields.io/badge/🎮_iOSx69-FF6B9D?style=for-the-badge&labelColor=2e1a29&logoColor=white">
 </a>
 </td>
 
